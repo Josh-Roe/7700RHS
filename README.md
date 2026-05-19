@@ -1,0 +1,1 @@
+This is the 7700R code used during the 2023-2024 Over Under competition season. This code uses JAR Template, a template created by JAR Robotics, where certain functions were changed and modified for motor use. This was the first time I used templates, and it gave me a better understanding of how control systems and VEX tasks work together.
